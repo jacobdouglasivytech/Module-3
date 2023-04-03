@@ -1,5 +1,5 @@
 #Jacob Douglas
-#main.py
+#main.py (case study)
 # this program is to take infroamtion from the user and store into classes of difernt autombiles and super call of vehicle.
 # Takes input and stores into data type of which is stored into the cuper class called car then call the function to build a car and print the inputed results. 
 class Vehicle: 
